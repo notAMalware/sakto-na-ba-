@@ -1,0 +1,12 @@
+C:\Users\Personal\source\repos\notAMalware\02-23-25-V.2\Final1.1\ardienteCaptial\ArdienteCapital\ardienter\bin\Debug\ardienter.exe.config
+C:\Users\Personal\source\repos\notAMalware\02-23-25-V.2\Final1.1\ardienteCaptial\ArdienteCapital\ardienter\bin\Debug\ardienter.exe
+C:\Users\Personal\source\repos\notAMalware\02-23-25-V.2\Final1.1\ardienteCaptial\ArdienteCapital\ardienter\obj\Debug\ardienter.csproj.AssemblyReference.cache
+C:\Users\Personal\source\repos\notAMalware\02-23-25-V.2\Final1.1\ardienteCaptial\ArdienteCapital\ardienter\obj\Debug\ardienter.Form1.resources
+C:\Users\Personal\source\repos\notAMalware\02-23-25-V.2\Final1.1\ardienteCaptial\ArdienteCapital\ardienter\obj\Debug\ardienter.Form2.resources
+C:\Users\Personal\source\repos\notAMalware\02-23-25-V.2\Final1.1\ardienteCaptial\ArdienteCapital\ardienter\obj\Debug\ardienter.Form4.resources
+C:\Users\Personal\source\repos\notAMalware\02-23-25-V.2\Final1.1\ardienteCaptial\ArdienteCapital\ardienter\obj\Debug\ardienter.Properties.Resources.resources
+C:\Users\Personal\source\repos\notAMalware\02-23-25-V.2\Final1.1\ardienteCaptial\ArdienteCapital\ardienter\obj\Debug\ardienter.csproj.GenerateResource.cache
+C:\Users\Personal\source\repos\notAMalware\02-23-25-V.2\Final1.1\ardienteCaptial\ArdienteCapital\ardienter\obj\Debug\ardienter.csproj.CoreCompileInputs.cache
+C:\Users\Personal\source\repos\notAMalware\02-23-25-V.2\Final1.1\ardienteCaptial\ArdienteCapital\ardienter\obj\Debug\ardienter.exe
+C:\Users\Personal\source\repos\notAMalware\02-23-25-V.2\Final1.1\ardienteCaptial\ArdienteCapital\ardienter\obj\Debug\ardienter.pdb
+C:\Users\Personal\source\repos\notAMalware\02-23-25-V.2\Final1.1\ardienteCaptial\ArdienteCapital\ardienter\bin\Debug\ardienter.pdb
